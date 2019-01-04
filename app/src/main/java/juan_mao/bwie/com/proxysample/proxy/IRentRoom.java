@@ -1,4 +1,4 @@
-package juan_mao.bwie.com.proxysample;
+package juan_mao.bwie.com.proxysample.proxy;
 
 /**
  * 出租房子的接口

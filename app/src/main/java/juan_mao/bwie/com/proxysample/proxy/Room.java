@@ -1,4 +1,4 @@
-package juan_mao.bwie.com.proxysample;
+package juan_mao.bwie.com.proxysample.proxy;
 
 /**
  * Created by 卷猫~ on 2019/1/4.

@@ -9,6 +9,10 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
+import juan_mao.bwie.com.proxysample.proxy.IRentRoom;
+import juan_mao.bwie.com.proxysample.proxy.Landlord;
+import juan_mao.bwie.com.proxysample.proxy.Room;
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
 

@@ -1,4 +1,4 @@
-package juan_mao.bwie.com.proxysample;
+package juan_mao.bwie.com.proxysample.proxy;
 
 import android.util.Log;
 
